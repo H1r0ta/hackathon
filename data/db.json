@@ -1,0 +1,19 @@
+{
+    "massages": [
+        {
+            "id": 1,
+            "Nickname": "Hikmat",
+            "massage": "bu yerda axlat bor"
+        },
+        {
+            "id": 2,
+            "Nickname": "Dilmurod",
+            "massage": "bu yerda axlat yoq"
+        },
+        {
+            "id": 3,
+            "Nickname": "Abdurashid",
+            "massage": "bu yerda musr bor"
+        }
+    ]
+}
